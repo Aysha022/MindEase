@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MindEase - Welcome</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="logo.jpeg" alt="MindEase Logo" class="logo">
+        <h1>Welcome</h1>
+        <p>Get started right now to improve your mental well-being</p>
+        <div class="buttons">
+            <button class="login" onclick="redirectToLogin()">Login</button>
+            <button class="signup" onclick="redirectToSignup()">Sign Up</button>
+        </div>
+    </div>
+    <script>
+        function redirectToSignup() {
+            window.location.href = "signup.html";
+        }
+        function redirectToLogin() {
+            window.location.href = "login.html";
+        }
+    </script>
+</body>
+</html>

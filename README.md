@@ -36,19 +36,10 @@ MindEase is a **student-focused mental well-being app** designed to provide easy
 - MongoDB
 
 ### The Problem Statement
-Ever struggled to figure out if someone’s mad at you or just hungry? Decoding emotions can feel like cracking a secret code!
+Mental health is a crucial aspect of student life, yet it often remains neglected due to stigma, lack of awareness, and limited access to mental health support. Many students struggle with stress, anxiety, and academic pressure but hesitate to seek professional help. Our college lacks a dedicated platform for students to express their concerns, access mental health resources, and seek guidance from counselors in an easy and anonymous way.
 
 ### The Solution
-'Play_Your_Mind' takes the guesswork out of it by using facial expressions to detect emotions like happiness, sadness, or "I-need-coffee." Perfect for making life (and interactions) a little easier!
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- Languages used : Python
-- Frameworks used : Flask
-- Libraries used : OpenCV,Deepface,Matplotlib,Numpy,Pandas
-- Tools used : Visual Studio Code
-
+Our Mental Well-Being Web App is designed to support students' mental health by providing a platform for easy access to college counselors, forming peer support groups, offering stress-relief games, and delivering daily motivational tips and quotes. 
 
 ### Implementation
 For Software : 
